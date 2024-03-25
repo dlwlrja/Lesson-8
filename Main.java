@@ -11,7 +11,7 @@ public class Main {
             summ = summ + people[i];
         }
         System.out.println("Средний возраст: "+ summ/ people.length);
-        /*int[] array = new int[10];
+        /* int[] array = new int[10];
         for (int i = 0; i<array.length; i++) {
             array[i] = i + 10;
         }
